@@ -17,3 +17,5 @@ pillow
 google-generativeai==0.7.2
 gunicorn
 whitenoise
+tavily-python
+langchain-tavily
